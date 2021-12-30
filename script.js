@@ -1,3 +1,5 @@
+alert("Bem vindo, Dev.")
+
 function validar(){
     var name = document.getElementById("name").value;
 
